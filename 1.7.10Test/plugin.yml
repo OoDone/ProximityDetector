@@ -1,0 +1,8 @@
+    main: me.OoDone.ProximityDetector.Main
+    name: ProximityDetector
+    version: 1.0
+    author: OoDone
+    depend: [DiscordSRV, Towny]
+    description: Towny Base Proximity Warning system
+    load: POSTWORLD
+    commands:
